@@ -1,0 +1,17 @@
+.sb-container {
+ 
+  
+}
+
+
+.instagram-header {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.instagram-h1 {
+  display: flex;
+  margin-bottom: 20px; 
+}
